@@ -1,7 +1,11 @@
 What does the device look like? 
-An oblong oval like shape that fits in your hand with the bottom being completely flat with a wheel that is only half visible in the front center What kind of data does it accept? 
+An oblong oval like shape that fits in your hand with the bottom being completely flat with a wheel that is only half visible in the front center 
+
+What kind of data does it accept? 
 3 inputs one next to the other of which they can be on or off and a fourth input on the bottom of the device in the form of a laser 
+
 How does it process that data? 
-the device checks if any of the three buttons are press and the information from the laser translates to movement on a 2 dimensional plane then sends that information to a seperate device 
+the device checks if any of the three buttons are press and the information from the laser translates to movement on a 2 dimensional plane then sends that information to a seperate device
+
 What is the result of that processing? 
 the movement of a cursor on a screen, selection, moving a webpage up or down, and showing more possible options to select
